@@ -1,0 +1,18 @@
+<ion-view view-title="ARAMA">
+
+	<ion-content>
+
+		<div id="the-basics">
+		
+			<ion-item> 
+				<input type="text" placeholder="Bitki Adını Yazınız..."  ng-model="arama.kelime" > 
+			</ion-item>
+
+			<ion-item ng-repeat="item in filtreliDeger track by $index" ng-click="veri($index)" >
+				{{item.tur}}
+			</ion-item>
+		 </div>
+
+	</ion-content>
+
+</ion-view>

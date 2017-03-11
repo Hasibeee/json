@@ -1,0 +1,89 @@
+[ {
+    "hid": "",
+    "fid": "",
+    "cid": "",
+    "tur": "",
+    "bolge": "",
+    "bKisi": "",
+    "tKisi": "",
+    "rAdi": "",
+    "konum": "",
+    "aciklama": ""
+}, {
+    "hid": 9,
+    "fid": 27,
+    "cid": 55,
+    "tur": "papatya",
+    "bolge": "Afrika",
+    "bKisi": "sbozkrt",
+    "tKisi": "sbozkrt",
+    "rAdi": "assets/images/bitkiler/palmiye.jpg",
+    "konum": "ütopya",
+    "aciklama": "karanfil konik gövdelidirler. Bu tür ağaçların dalları hemen hiç yoktur. Bir gövdeden birçok yaprak çıkmaktadır. Palmiye ağaçlarının en büyükleri 30 metreye kadar çıkabilmektedir. Palmiye türlerinin"
+}, {
+    "hid": 68,
+    "fid": 2,
+    "cid": 5,
+    "tur": "siyah gül",
+    "bolge": "Afrika",
+    "bKisi": "sbozkrt",
+    "tKisi": "sbozkrt",
+    "rAdi": "assets/images/bitkiler/palmiye.jpg",
+    "konum": "ütopya",
+    "aciklama": "Orkide konik gövdelidirler. Bu tür ağaçların dalları hemen hiç yoktur. Bir gövdeden birçok yaprak çıkmaktadır. Palmiye ağaçlarının en büyükleri 30 metreye kadar çıkabilmektedir. Palmiye türlerinin"
+},{
+    "hid": 4,
+    "fid": 3,
+    "cid": 2,
+    "tur": "palmiyegiller",
+    "bolge": "Afrika",
+    "bKisi": "sbozkrt",
+    "tKisi": "sbozkrt",
+    "rAdi": "assets/images/bitkiler/palmiye.jpg",
+    "konum": "Asya",
+    "aciklama": "karanfil konik gövdelidirler. Bu tür ağaçların dalları hemen hiç yoktur. Bir gövdeden birçok yaprak çıkmaktadır. Palmiye ağaçlarının en büyükleri 30 metreye kadar çıkabilmektedir. Palmiye türlerinin"
+},{
+    "hid": 4,
+    "fid": 3,
+    "cid": 97,
+    "tur": "orkide",
+    "bolge": "gdd",
+    "bKisi": "sbozkrt",
+    "tKisi": "sbozkrt",
+    "rAdi": "assets/images/bitkiler/palmiye.jpg",
+    "konum": "Asya",
+    "aciklama": "trsgrefdpogıhgtroep konik gövdelidirler. Bu tür ağaçların dalları hemen hiç yoktur. Bir gövdeden birçok yaprak çıkmaktadır. Palmiye ağaçlarının en büyükleri 30 metreye kadar çıkabilmektedir. Palmiye türlerinin"
+}, {
+    "hid": 97,
+    "fid": 27,
+    "cid": 55,
+    "tur": "devedikeni",
+    "bolge": "Afrika",
+    "bKisi": "sbozkrt",
+    "tKisi": "sbozkrt",
+    "rAdi": "assets/images/bitkiler/palmiye.jpg",
+    "konum": "ütopya",
+    "aciklama": "Orkide konik gövdelidirler. Bu tür ağaçların dalları hemen hiç yoktur. Bir gövdeden birçok yaprak çıkmaktadır. Palmiye ağaçlarının en büyükleri 30 metreye kadar çıkabilmektedir. Palmiye türlerinin"
+}, {
+    "hid": 38,
+    "fid": 2,
+    "cid": 5,
+    "tur": "karanfil",
+    "bolge": "Afrika",
+    "bKisi": "sbozkrt",
+    "tKisi": "sbozkrt",
+    "rAdi": "assets/images/bitkiler/palmiye.jpg",
+    "konum": "ütopya",
+    "aciklama": "Orkide konik gövdelidirler. Bu tür ağaçların dalları hemen hiç yoktur. Bir gövdeden birçok yaprak çıkmaktadır. Palmiye ağaçlarının en büyükleri 30 metreye kadar çıkabilmektedir. Palmiye türlerinin"
+},{
+    "hid": 43,
+    "fid": 97,
+    "cid": 2,
+    "tur": "bonzai",
+    "bolge": "Afrika",
+    "bKisi": "sbozkrt",
+    "tKisi": "sbozkrt",
+    "rAdi": "assets/images/bitkiler/palmiye.jpg",
+    "konum": "Asya",
+    "aciklama": "bonzai konik gövdelidirler. Bu tür ağaçların dalları hemen hiç yoktur. Bir gövdeden birçok yaprak çıkmaktadır. Palmiye ağaçlarının en büyükleri 30 metreye kadar çıkabilmektedir. Palmiye türlerinin"
+}]

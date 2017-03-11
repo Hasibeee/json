@@ -1,0 +1,41 @@
+<ion-view>
+	<ion-content>
+	 	<ion-list>
+			<ion-item ng-repeat="x in myData | filter : bitki">
+				<label class="item item-input">
+				<span class="input-label">ID</span>
+					{{x.hid}}
+				</label>
+
+				<label class="item item-input">
+				<span class="input-label">Tür </span>
+					 {{x.tur}}
+				</label>
+
+				 <label class="item item-input">
+					<span class="input-label">Bölge</span>
+					 {{x.bolge}}
+				</label>
+
+				<label class="item item-input">
+				<span class="input-label">Bulan Kişi</span>
+					{{x.bKisi}}
+				</label>
+
+				<label class="item item-input">
+				<span class="input-label">Tanımlayan Kişi </span>
+					{{x.tKisi}}
+				</label>
+				
+				<label class="item item-input">
+				<span class="input-label"> Açıklama </span>
+					 <textarea >{{x.aciklama}}</textarea>
+				</label>
+			</ion-item>
+			<ion-item ng-if="myData.length == 0">
+				Arama sonucu bulunamadı
+			</ion-item>
+		</ion-list>
+
+	</ion-content>
+</ion-view>
