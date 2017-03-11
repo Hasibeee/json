@@ -47,7 +47,7 @@ angular.module('starter.controllers', [])
 	});
 })
 
-.controller('SearchCtrl', function ($scope, $http) {
+.controller('SearchCtrl', function ($scope, $http, $state) {
 	$scope.arama = {
 		kelime: ""
 	};
@@ -69,7 +69,7 @@ angular.module('starter.controllers', [])
 			var item =$scope.filtreliDeger[index];
 			console.log(item)
 
-			$state.go('app.sonuc', {aranacak: item })
+			$state.go('app.sonuc', {aranacak: item.tur })
 			}
 		}
 
